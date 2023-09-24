@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Agarwal</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-101&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-101" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/sites/benevolent-twilight-db3785/overview](https://app.netlify.com/sites/benevolent-twilight-db3785/overview)
+- 👨‍💻 All of my projects are available at [https://benevolent-twilight-db3785.netlify.app/](https://benevolent-twilight-db3785.netlify.app/)
 
 - 💬 Ask me about **react,sql**
 
