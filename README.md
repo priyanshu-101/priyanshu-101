@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-101&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-101" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://benevolent-twilight-db3785.netlify.app/](https://benevolent-twilight-db3785.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://about-seven-lovat.vercel.app/](https://about-seven-lovat.vercel.app/)
 
-- 💬 Ask me about **react,sql**
+- 💬 Ask me about **MERN stack, typescript, Database**
 
 - 📫 How to reach me **priyanshuagarwal1008@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ItqLeqizrb3vFqPTv0eTvtN4QiHDOcuO/view?usp=sharing]([https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/1ItqLeqizrb3vFqPTv0eTvtN4QiHDOcuO/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
